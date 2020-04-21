@@ -1,0 +1,3 @@
+This project is about exploiting the vulnerabilities of default username and password within a system. In this case it is a Raspberry Pi 3 running Raspbian OS and we take a user's profile and change their password; all without them knowing!
+
+The powerpoint also lists what we learned and how we can avoid such mistakes in the future.
